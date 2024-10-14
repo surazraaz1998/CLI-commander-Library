@@ -1,0 +1,22 @@
+{
+  "name": "cli-commander-library",
+  "version": "1.0.0",
+  "description": "Creating a CLI using Commander npm package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/surazraaz1998/CLI-commander-Library.git"
+  },
+  "author": "Suraj raj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/surazraaz1998/CLI-commander-Library/issues"
+  },
+  "homepage": "https://github.com/surazraaz1998/CLI-commander-Library#readme",
+  "dependencies": {
+    "commander": "^12.1.0"
+  }
+}
